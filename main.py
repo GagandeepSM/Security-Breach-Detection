@@ -16,7 +16,7 @@ from picamera import PiCamera
 
 gmail_user = "smartdoorbell987@gmail.com" #Sender email address
 gmail_pwd = "project@123" #Sender email password
-to = "mahima22verma@gmail.com" #Receiver email address
+to = "gagandeepmanku47@gmail.com" #Receiver email address
 subject = "Security Breach"
 text = "Some One is Came at your home.Plz See the attached picture."
 
